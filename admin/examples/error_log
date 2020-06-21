@@ -1,0 +1,495 @@
+[24-Mar-2018 23:40:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:40:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 29
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 31
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 32
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 33
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 226
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 253
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 368
+[24-Mar-2018 23:40:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 397
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 29
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 31
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 32
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 33
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 226
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 253
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 368
+[24-Mar-2018 23:42:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 397
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 29
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 31
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 32
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 33
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 226
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 253
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 368
+[24-Mar-2018 23:42:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 397
+[24-Mar-2018 23:42:32 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/expert.php on line 163
+[24-Mar-2018 23:42:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/expert.php on line 166
+[24-Mar-2018 23:42:34 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 252
+[24-Mar-2018 23:42:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 253
+[24-Mar-2018 23:42:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 278
+[24-Mar-2018 23:42:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 279
+[24-Mar-2018 23:42:35 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/category.php on line 122
+[24-Mar-2018 23:42:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/category.php on line 123
+[24-Mar-2018 23:42:38 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/subcategory.php on line 123
+[24-Mar-2018 23:42:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/subcategory.php on line 125
+[24-Mar-2018 23:42:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addsubcategory.php on line 152
+[24-Mar-2018 23:42:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addsubcategory.php on line 153
+[24-Mar-2018 23:42:41 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/faqs.php on line 126
+[24-Mar-2018 23:42:41 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/faqs.php on line 129
+[24-Mar-2018 23:42:48 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addfaqs.php on line 227
+[24-Mar-2018 23:42:48 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addfaqs.php on line 228
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 29
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 31
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 32
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 33
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 226
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 253
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 368
+[24-Mar-2018 23:42:51 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 397
+[24-Mar-2018 23:42:54 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/expert.php on line 163
+[24-Mar-2018 23:42:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/expert.php on line 166
+[24-Mar-2018 23:42:56 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 252
+[24-Mar-2018 23:42:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 253
+[24-Mar-2018 23:42:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 278
+[24-Mar-2018 23:42:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 279
+[24-Mar-2018 23:42:57 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:42:57 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:42:57 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/category.php on line 122
+[24-Mar-2018 23:42:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/category.php on line 123
+[24-Mar-2018 23:45:29 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'archit_mihir'@'localhost' to database 'archit_farmer3' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:45:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:45:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/category.php on line 122
+[24-Mar-2018 23:45:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/category.php on line 123
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'archit_mihir'@'localhost' to database 'archit_farmer3' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 29
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 31
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 32
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 33
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 226
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 253
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 368
+[24-Mar-2018 23:45:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 397
+[24-Mar-2018 23:45:38 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'archit_mihir'@'localhost' to database 'archit_farmer3' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:45:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:45:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/expert.php on line 163
+[24-Mar-2018 23:45:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/expert.php on line 166
+[24-Mar-2018 23:45:39 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'archit_mihir'@'localhost' to database 'archit_farmer3' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:45:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:45:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 252
+[24-Mar-2018 23:45:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 253
+[24-Mar-2018 23:45:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 278
+[24-Mar-2018 23:45:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert.php on line 279
+[24-Mar-2018 23:45:40 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'archit_mihir'@'localhost' to database 'archit_farmer3' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:45:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:45:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/category.php on line 122
+[24-Mar-2018 23:45:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/category.php on line 123
+[24-Mar-2018 23:45:42 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'archit_mihir'@'localhost' to database 'archit_farmer3' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 3
+[24-Mar-2018 23:45:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/connection.php on line 4
+[24-Mar-2018 23:45:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/subcategory.php on line 123
+[24-Mar-2018 23:45:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/subcategory.php on line 125
+[24-Mar-2018 23:46:53 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table3.php on line 122
+[24-Mar-2018 23:47:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table3.php on line 122
+[24-Mar-2018 23:47:52 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table3.php on line 122
+[24-Mar-2018 23:51:27 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[24-Mar-2018 23:51:27 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[24-Mar-2018 23:51:27 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[24-Mar-2018 23:51:27 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[24-Mar-2018 23:51:27 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 00:01:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table3.php on line 130
+[25-Mar-2018 00:01:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table3.php on line 130
+[25-Mar-2018 00:01:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table3.php on line 130
+[25-Mar-2018 00:02:14 Etc/GMT] PHP Notice:  Undefined index: b.district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table3.php on line 125
+[25-Mar-2018 00:08:58 Etc/GMT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table3.php on line 123
+[25-Mar-2018 00:45:37 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:45:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:45:37 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 00:55:40 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:55:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:55:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 00:57:20 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:57:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:57:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 00:57:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:57:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:57:59 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 00:58:28 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:58:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:58:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 00:59:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:59:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 00:59:14 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 00:59:17 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 00:59:17 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 00:59:17 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 00:59:17 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 00:59:17 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 01:00:39 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 01:00:39 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 01:00:39 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 01:00:39 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 01:00:39 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export4.php on line 24
+[25-Mar-2018 01:01:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:01:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:01:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:02:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:02:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:02:14 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:02:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:02:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:02:59 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:03:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:02 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:02 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:03:53 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:53 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:03:53 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:04:35 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:04:35 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:04:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:33:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:33:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:33:09 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:33:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:33:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:33:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:34:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:34:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:34:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:36:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:36:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:36:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:37:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:37:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:37:48 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:42:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:47 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:42:52 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:42:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:42:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 01:43:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:43:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 116
+[25-Mar-2018 01:43:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/table6.php on line 118
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:00:10 Etc/GMT] PHP Notice:  Undefined variable: edistrict in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 297
+[25-Mar-2018 02:09:38 Etc/GMT] PHP Notice:  Undefined variable: newcat in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editcategory_back.php on line 9
+[25-Mar-2018 02:09:46 Etc/GMT] PHP Notice:  Undefined variable: newcat in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editcategory_back.php on line 9
+[25-Mar-2018 02:13:06 Etc/GMT] PHP Notice:  Undefined variable: newcat in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editcategory_back.php on line 9
+[25-Mar-2018 02:13:31 Etc/GMT] PHP Notice:  Undefined variable: newcat in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editcategory_back.php on line 9
+[25-Mar-2018 02:20:28 Etc/GMT] PHP Notice:  Undefined variable: question in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editfaqs_back.php on line 15
+[25-Mar-2018 02:21:03 Etc/GMT] PHP Notice:  Undefined variable: question in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editfaqs_back.php on line 15
+[25-Mar-2018 02:22:39 Etc/GMT] PHP Notice:  Undefined variable: question in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editfaqs_back.php on line 15
+[25-Mar-2018 02:29:24 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 29
+[25-Mar-2018 02:29:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 30
+[25-Mar-2018 02:29:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 38
+[25-Mar-2018 02:29:24 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 29
+[25-Mar-2018 02:29:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 30
+[25-Mar-2018 02:29:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 38
+[25-Mar-2018 02:29:40 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 29
+[25-Mar-2018 02:29:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 30
+[25-Mar-2018 02:29:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 38
+[25-Mar-2018 02:29:40 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 29
+[25-Mar-2018 02:29:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 30
+[25-Mar-2018 02:29:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 38
+[25-Mar-2018 02:29:57 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 29
+[25-Mar-2018 02:29:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 30
+[25-Mar-2018 02:29:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 38
+[25-Mar-2018 02:29:57 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 29
+[25-Mar-2018 02:29:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 30
+[25-Mar-2018 02:29:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 38
+[25-Mar-2018 02:31:43 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 29
+[25-Mar-2018 02:31:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 30
+[25-Mar-2018 02:31:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 38
+[25-Mar-2018 02:31:43 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 29
+[25-Mar-2018 02:31:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 30
+[25-Mar-2018 02:31:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 38
+[25-Mar-2018 02:33:41 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 51
+[25-Mar-2018 02:33:41 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 51
+[25-Mar-2018 02:34:15 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 51
+[25-Mar-2018 02:34:15 Etc/GMT] PHP Notice:  Undefined index: category_flag in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export2.php on line 51
+[25-Mar-2018 02:35:32 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export1.php on line 26
+[25-Mar-2018 02:35:32 Etc/GMT] PHP Notice:  Undefined index: rid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export1.php on line 26
+[25-Mar-2018 02:36:15 Etc/GMT] PHP Notice:  Undefined index: lids in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export1.php on line 26
+[25-Mar-2018 02:36:15 Etc/GMT] PHP Notice:  Undefined index: lids in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/export1.php on line 26
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 02:39:59 Etc/GMT] PHP Notice:  Undefined index: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 296
+[25-Mar-2018 03:10:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 93
+[25-Mar-2018 03:13:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 93
+[25-Mar-2018 03:17:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:19:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:20:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:22:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:23:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:25:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 97
+[25-Mar-2018 03:49:22 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined index: lid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 90
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: fname in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 259
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: lname in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 265
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: phoneno in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 271
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: pincode in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 277
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 293
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: district in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 294
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: lang in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 301
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: lang in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 304
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: lang in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 308
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: lang in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 312
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: category in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 324
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: category in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 334
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: category in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 334
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: category in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 334
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: category in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 334
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: category in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 334
+[25-Mar-2018 03:49:46 Etc/GMT] PHP Notice:  Undefined variable: category in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 334
+[25-Mar-2018 03:52:57 Etc/GMT] PHP Notice:  Undefined index: cid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/deletecategory.php on line 5
+[25-Mar-2018 03:53:49 Etc/GMT] PHP Notice:  Undefined index: lid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/deleteexpert.php on line 5
+[25-Mar-2018 03:54:41 Etc/GMT] PHP Notice:  Undefined index: lid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/deleteexpert.php on line 5
+[25-Mar-2018 03:55:47 Etc/GMT] PHP Notice:  Undefined index: lid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/deleteexpert.php on line 5
+[25-Mar-2018 03:58:21 Etc/GMT] PHP Notice:  Undefined index: lid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/deleteexpert.php on line 5
+[25-Mar-2018 04:01:08 Etc/GMT] PHP Notice:  Undefined index: lid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/deleteexpert.php on line 5
+[25-Mar-2018 04:04:58 Etc/GMT] PHP Notice:  Undefined index: lid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/deleteexpert.php on line 5
+[25-Mar-2018 04:05:49 Etc/GMT] PHP Notice:  Undefined index: lid in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/deleteexpert.php on line 5
+[25-Mar-2018 04:09:27 Etc/GMT] PHP Notice:  Undefined variable: newcat in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editcategory_back.php on line 9
+[25-Mar-2018 04:09:38 Etc/GMT] PHP Notice:  Undefined variable: newcat in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editcategory_back.php on line 9
+[25-Mar-2018 04:10:55 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[25-Mar-2018 04:15:07 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[25-Mar-2018 04:29:29 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[25-Mar-2018 04:33:10 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[25-Mar-2018 06:35:47 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 134
+[25-Mar-2018 06:54:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 353
+[25-Mar-2018 06:54:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 353
+[25-Mar-2018 06:54:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 353
+[25-Mar-2018 06:54:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/editexpert.php on line 353
+[26-Mar-2018 08:00:00 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[26-Mar-2018 17:10:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 168
+[26-Mar-2018 17:10:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 170
+[26-Mar-2018 17:10:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 170
+[26-Mar-2018 17:11:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 170
+[26-Mar-2018 17:11:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 168
+[26-Mar-2018 17:11:40 Etc/GMT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 168
+[26-Mar-2018 17:17:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/dashboard.php on line 170
+[27-Mar-2018 06:49:43 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[27-Mar-2018 09:50:30 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[03-Apr-2018 07:53:39 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
+[04-Apr-2018 07:00:23 Etc/GMT] PHP Notice:  Undefined index: subcategory in /home/archit/public_html/architectmihirthaker.com/gh01/admin/examples/addexpert_back.php on line 14
