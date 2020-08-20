@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_to_your_account">अपने खाते में प्रवेश करे</string>
+    <string name="uname"> उपयोगकर्ता नाम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="btn_login">लॉग इन</string>
+    <string name="fg_pass">पासवर्ड भूल गए?</string>
+    <string name="not_member_yet">अभी तक सदस्य नहीं है?</string>
+    <string name="btn_signup">रजिस्टर करे</string>
+    <string name="register">रजिस्टर करे</string>
+    <string name="fname">पहला नाम</string>
+    <string name="lname">आखरी नाम</string>
+    <string name="districtpphopho">जिला</string>
+    <string name="pincode">पिनकोड</string>
+    <string name="phone">फोन नंबर</string>
+    <string name="pass">पासवर्ड</string>
+    <string name="conf_pass">पासवर्ड की पुष्टि कीजिये</string>
+    <string name="trending">अद्यतन</string>
+    <string name="my_ques">मेरे प्रश्न</string>
+    <string name="select_lang">भाषा का चयन करे </string>
+    <string name="app_name">एग्रो विशेषज्ञ</string>
+    <string name="mobile_verification">मोबाइल नंबर</string>
+    <string name="btn_verify">ओ.टी.पी चकासे</string>
+    <string name="e_otp">ओ.टी.पी डाले</string>
+    <string name="submit">जमा करें</string>
+    <string name="save">बचत करे</string>
+    <string name="ask_que">प्रश्न पूछे</string>
+    <string name="ent_que">प्रश्न डाले</string>
+    <string name="categ">प्रकार</string>
+    <string name="questions">सवाल</string>
+    <string name="answers">जवाब</string>
+    <string name="login_to_agro_expert">एग्रो एक्सपर्ट में  लॉग इन करे</string>
+    <string name="sent_otp_via_sms">एसएमएस से ओटीपी भेजे</string>
+    <string name="enter_mobile_number">मोबाईल नंबर डाले</string>
+    <string name="enter_district">अपना जिला डाले</string>
+    <string name="sent_otp_to">हमने इस नंबर पे ओटीपी भेजा है</string>
+    <string name="resend_otp"><u>फिरसे ओटीपी भेजे</u></string>
+    <string name="edt_mobile_no"><u>मोबाईल नंबर बदले</u></string>
+    <string name="ask_question">प्रश्न पूछे</string>
+    <string name="agro_expert">एग्रो एक्सपर्ट</string>
+    <string name="search_question">प्रश्न ढूंढे</string>
+    <string name="starred_questions">तारांकित प्रश्न</string>
+    <string name="profile">विवरण</string>
+    <string name="about_us">हमारे बारे में</string>
+    <string name="help">मदद</string>
+    <string name="FAQs">सामान्य प्रश्न</string>
+    <string name="pending_questions">अनुत्तरित प्रश्न</string>
+    <string name="answered_questions">प्राप्य उत्तर</string>
+
+    <string name="login">लॉग इन</string>
+    <string name="send">भेजे</string>
+    <string name="question_description">प्रश्न क विवरण करे</string>
+    <string name="add_audio">अपनी आवाज़ रिकॉर्ड करे</string>
+    <string name="add_image">प्रश्न में चित्र जोड़े</string>
+    <string name="add_video">प्रश्न में चलचित्र जोड़े</string>
+    <string name="asked_questions">पूछे हुए प्रश्न</string>
+    <string name="factors">"अतिरिक्त कारक "</string>
+
+
+</resources>

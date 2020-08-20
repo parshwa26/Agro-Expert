@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_marginTop="@dimen/_30sdp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:src="@drawable/user"
+                android:scaleType="fitXY"/>
+
+            <LinearLayout
+                android:layout_marginTop="@dimen/_20sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@+id/name"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="Name"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"/>
+
+                    <TextView
+                        android:layout_weight="2"
+                        android:id="@+id/txt_name"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="Parshwa Shah"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"
+                        android:layout_width="0dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@+id/email"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="Email"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"/>
+
+                    <TextView
+                        android:layout_weight="2"
+                        android:id="@+id/txt_email"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="parshwa@pshah.in"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"
+                        android:layout_width="0dp" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@+id/mobile"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="Mobile no"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"/>
+
+                    <TextView
+                        android:layout_weight="2"
+                        android:id="@+id/txt_mobile"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="9157578750"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"
+                        android:layout_width="0dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@+id/zone"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="Zone"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"/>
+
+                    <TextView
+                        android:layout_weight="2"
+                        android:id="@+id/txt_zone"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="JAU"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"
+                        android:layout_width="0dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:id="@+id/unit"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="Unit"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"/>
+
+                    <TextView
+                        android:layout_weight="2"
+                        android:id="@+id/txt_unit"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="IT Department"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"
+                        android:layout_width="0dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="2"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/language"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_14sdp"
+                        android:text="Language"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:paddingRight="@dimen/_10sdp"
+                        android:paddingTop="@dimen/_10sdp"
+                        android:paddingBottom="@dimen/_10sdp"
+                        android:maxLines="1"/>
+                    <Spinner
+                        android:layout_marginTop="@dimen/_10sdp"
+                        android:id="@+id/spn_language"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="@dimen/_5sdp"/>
+
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                <Button
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:id="@+id/Login_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Save"
+                    android:textColor="#ffffff"
+                    android:background="#8bc348"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/_12sdp"
+                    android:padding="@dimen/_10sdp"
+                    android:layout_gravity="center_horizontal"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

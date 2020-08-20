@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="login_to_your_account">તમારા ખાતામા લોગ-ઇન કરો</string>
+    <string name="uname">વપરાશકર્તાનુ નામ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="btn_login">લોગ-ઇન</string>
+    <string name="fg_pass">પાસવર્ડ ભૂલી ગયા છો?</string>
+    <string name="not_member_yet">હજુ સુધી સભ્ય નથી?</string>
+    <string name="btn_signup">રજીસ્ટર કરો</string>
+    <string name="register">રજીસ્ટર કરો</string>
+    <string name="fname">પ્રથમ નામ</string>
+    <string name="lname">છેલ્લું નામ</string>
+    <string name="districtpphopho">જિલ્લા</string>
+    <string name="pincode">પીન કોડ</string>
+    <string name="phone">ફોન નંબર</string>
+    <string name="pass">પાસવર્ડ</string>
+    <string name="conf_pass">ફરીથી પાસવર્ડ નાખો</string>
+    <string name="trending">તાજેતરમાં</string>
+    <string name="my_ques">મારા પ્રશ્નો</string>
+    <string name="select_lang">ભાષા પસંદ કરો</string>
+    <string name="app_name">એગ્રો નિષ્ણાત</string>
+    <string name="mobile_verification">મોબાઈલ નંબર</string>
+    <string name="btn_verify">ઓ.ટી.પી ચકાસો</string>
+    <string name="e_otp">ઓ.ટી.પી નાખો</string>
+    <string name="submit">મોકલો</string>
+    <string name="save">સાચવો</string>
+    <string name="ask_que">પ્રશ્ન પૂછો</string>
+    <string name="ent_que">પ્રશ્ન નાખો</string>
+    <string name="categ">પ્રકાર</string>
+    <string name="questions">સવાલ</string>
+    <string name="answers">જવાબ</string>
+ <string name="login_to_agro_expert">એગ્રો એક્ષ્પર્ટ માં લોગીન કરો</string>
+ <string name="sent_otp_via_sms">એસએમએસથી ઓટીપી મોકલો</string>
+ <string name="enter_mobile_number">મોબાઈલ નંબર નાખો</string>
+ <string name="enter_district">પોતાનો જીલ્લો નાખો</string>
+ <string name="sent_otp_to">અમે આ નંબર પર ઓટીપી મોકલેલ છે</string>
+ <string name="resend_otp"><u>ફરીથી ઓટીપી મોકલો</u></string>
+ <string name="edt_mobile_no"><u>મોબાઈલ નંબર બદલો</u></string>
+ <string name="agro_expert">એગ્રો એક્ષ્પર્ટ</string>
+ <string name="ask_question">પ્રશ્ન પૂછો</string>
+ <string name="answered_questions">ઉકેલાયેલા પ્રશ્નો</string>
+ <string name="pending_questions">વણઉકેલાયેલા પ્રશ્નો</string>
+ <string name="search_question">પ્રશ્ન શોધો</string>
+ <string name="starred_questions">તારાંકિત પ્રશ્નો</string>
+ <string name="FAQs">સામાન્ય પ્રશ્નો</string>
+ <string name="profile">પ્રોફાઈલ</string>
+ <string name="about_us">અમારા વિષે</string>
+ <string name="help">મદદ</string>
+
+
+ <string name="login">લોગીન</string>
+    <string name="send">મોકલો</string>
+    <string name="question_description">પ્રશ્નનું સ્પષ્ટીકરણ કરો</string>
+    <string name="add_audio">અપનો અવાજ રેકોર્ડ કરો</string>
+    <string name="add_image">ચિત્ર ઉમેરો</string>
+    <string name="add_video">પ્રશ્નમાં વીડિઓ ઉમેરો</string>
+    <string name="asked_questions">પૂછેલા પ્રશ્નો</string>
+    <string name="factors">વિશેષ પરિબળો</string>
+
+
+</resources>

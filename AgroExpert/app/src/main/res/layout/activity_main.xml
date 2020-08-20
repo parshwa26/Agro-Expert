@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f9f5f2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_150sdp"
+                    android:background="@color/white">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/dashboard" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:cardElevation="@dimen/_10sdp">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:padding="@dimen/_10sdp"
+                            android:text="@string/agro_expert"
+                            android:textSize="@dimen/_16sdp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+
+                </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_5sdp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/answered_questions"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_85sdp"
+                            android:layout_margin="@dimen/_5sdp"
+                            app:cardBackgroundColor="#8bc34a"
+                            app:cardCornerRadius="@dimen/_10sdp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:weightSum="2">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_weight="1"
+                                    android:paddingLeft="@dimen/_15sdp"
+                                    android:paddingRight="@dimen/_7sdp"
+                                    android:paddingTop="@dimen/_8sdp"
+                                    android:src="@drawable/answered" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="1"
+                                    android:maxLines="2"
+                                    android:paddingBottom="@dimen/_8sdp"
+                                    android:paddingLeft="@dimen/_5sdp"
+                                    android:paddingRight="@dimen/_5sdp"
+                                    android:paddingTop="@dimen/_3sdp"
+                                    android:text="@string/answered_questions"
+                                    android:textAlignment="center"
+                                    android:textColor="@color/white"
+                                    android:textSize="@dimen/_14sdp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/unanswered_questions"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_85sdp"
+                            android:layout_margin="@dimen/_5sdp"
+                            app:cardBackgroundColor="#8bc34a"
+                            app:cardCornerRadius="@dimen/_10sdp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:weightSum="2">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_weight="1"
+                                    android:paddingLeft="@dimen/_15sdp"
+                                    android:paddingRight="@dimen/_7sdp"
+                                    android:paddingTop="@dimen/_8sdp"
+                                    android:src="@drawable/unanswered" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="1"
+                                    android:maxLines="2"
+                                    android:paddingBottom="@dimen/_8sdp"
+                                    android:paddingLeft="@dimen/_5sdp"
+                                    android:paddingRight="@dimen/_5sdp"
+                                    android:paddingTop="@dimen/_3sdp"
+                                    android:text="@string/pending_questions"
+                                    android:textAlignment="center"
+                                    android:textColor="@color/white"
+                                    android:textSize="@dimen/_14sdp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/cv_search_question"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_85sdp"
+                            android:layout_margin="@dimen/_5sdp"
+                            app:cardBackgroundColor="#8bc34a"
+                            app:cardCornerRadius="@dimen/_10sdp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:weightSum="2">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_weight="1"
+                                    android:paddingLeft="@dimen/_12sdp"
+                                    android:paddingRight="@dimen/_12sdp"
+                                    android:paddingTop="@dimen/_8sdp"
+                                    android:src="@drawable/search" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="1"
+                                    android:maxLines="2"
+                                    android:paddingBottom="@dimen/_8sdp"
+                                    android:paddingLeft="@dimen/_5sdp"
+                                    android:paddingRight="@dimen/_5sdp"
+                                    android:paddingTop="@dimen/_3sdp"
+                                    android:text="@string/search_question"
+                                    android:textAlignment="center"
+                                    android:textColor="@color/white"
+                                    android:textSize="@dimen/_14sdp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="3">
+
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/cv_starred_question"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_85sdp"
+                            android:layout_margin="@dimen/_5sdp"
+                            app:cardBackgroundColor="#8bc34a"
+                            app:cardCornerRadius="@dimen/_10sdp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:weightSum="2">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_weight="1"
+                                    android:paddingLeft="@dimen/_12sdp"
+                                    android:paddingRight="@dimen/_10sdp"
+                                    android:paddingTop="@dimen/_8sdp"
+                                    android:src="@drawable/starred_message" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="1"
+                                    android:maxLines="2"
+                                    android:paddingBottom="@dimen/_8sdp"
+                                    android:paddingLeft="@dimen/_5sdp"
+                                    android:paddingRight="@dimen/_5sdp"
+                                    android:paddingTop="@dimen/_3sdp"
+                                    android:text="@string/starred_questions"
+                                    android:textAlignment="center"
+                                    android:textColor="@color/white"
+                                    android:textSize="@dimen/_14sdp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/about_us"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_85sdp"
+                            android:layout_margin="@dimen/_5sdp"
+                            app:cardBackgroundColor="#8bc34a"
+                            app:cardCornerRadius="@dimen/_10sdp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:weightSum="2">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_weight="1.2"
+                                    android:paddingLeft="@dimen/_14sdp"
+                                    android:paddingRight="@dimen/_14sdp"
+                                    android:paddingTop="@dimen/_10sdp"
+                                    android:src="@drawable/about_us" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="0.8"
+                                    android:maxLines="2"
+                                    android:paddingBottom="@dimen/_8sdp"
+                                    android:paddingLeft="@dimen/_5sdp"
+                                    android:paddingRight="@dimen/_5sdp"
+                                    android:paddingTop="@dimen/_8sdp"
+                                    android:text="@string/about_us"
+                                    android:textAlignment="center"
+                                    android:textColor="@color/white"
+                                    android:textSize="@dimen/_14sdp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <android.support.v7.widget.CardView
+                            android:id="@+id/cv_other"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_85sdp"
+                            android:layout_margin="@dimen/_5sdp"
+                            app:cardBackgroundColor="#8bc34a"
+                            app:cardCornerRadius="@dimen/_10sdp">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:weightSum="2">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_weight="1.2"
+                                    android:paddingLeft="@dimen/_16sdp"
+                                    android:paddingRight="@dimen/_16sdp"
+                                    android:paddingTop="@dimen/_12sdp"
+                                    android:src="@drawable/profilee" />
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="0dp"
+                                    android:layout_gravity="center"
+                                    android:layout_weight="0.8"
+                                    android:maxLines="2"
+                                    android:paddingBottom="@dimen/_8sdp"
+                                    android:paddingLeft="@dimen/_5sdp"
+                                    android:paddingRight="@dimen/_5sdp"
+                                    android:paddingTop="@dimen/_8sdp"
+                                    android:text="@string/other"
+                                    android:textAlignment="center"
+                                    android:textColor="@color/white"
+                                    android:textSize="@dimen/_14sdp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+                        </android.support.v7.widget.CardView>
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

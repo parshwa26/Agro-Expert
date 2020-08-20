@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#BDBDBD"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/ln_profile"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginLeft="@dimen/_5sdp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="@dimen/_7sdp"
+                    android:src="@drawable/user"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="@dimen/_10sdp"
+                android:paddingRight="@dimen/_10sdp"
+                android:paddingLeft="@dimen/_10sdp">
+
+                <TextView
+                    android:id="@+id/tv_far_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="9687206884"
+                    android:textSize="@dimen/_14sdp"
+                    android:textColor="@color/black"/>
+
+
+                <TextView
+                    android:id="@+id/tv_timestamp"
+                    android:padding="@dimen/_1sdp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/_10sdp"
+                    android:text="Mar 20 2018"/>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/_1sdp">
+
+                    <TextView
+                        android:id="@+id/tv_category"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_10sdp"
+                        android:text="Category->"/>
+
+
+                    <TextView
+                        android:id="@+id/tv_sub_category"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_10sdp"
+                        android:text="Sub-Category"/>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.uncopt.android.widget.text.justify.JustifiedTextView
+                android:id="@+id/tv_title_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10sdp"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_12sdp"
+                android:text="This is text box which displays the question. Whole Question Goes here. No matter how long the question is it will displayed here. Length does not matter while uploading question as this is demo question"/>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/ig_home_img"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_150sdp"
+                    android:src="@drawable/back_img"
+                    android:visibility="gone"
+                    android:scaleType="fitXY"/>
+
+
+                <LinearLayout
+                    android:visibility="gone"
+                    android:id="@+id/ll_video"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:visibility="gone"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/btnonce"
+                            android:text="Once"/>
+                        <Button
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/btnconti"
+                            android:text="continou"/>
+                        <Button
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/btnstop"
+                            android:text="Stop"/>
+                        <Button
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/btnplay"
+                            android:text="play"/>
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_150sdp">
+
+                        <VideoView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentTop="true"
+                            android:id="@+id/vv"/>
+
+                        <ProgressBar
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:id="@+id/progrss"
+                            android:visibility="visible"
+                            android:layout_centerInParent="true"/>
+
+                    </RelativeLayout>
+
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/rl_audio"
+                    android:visibility="gone"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:layout_marginBottom="@dimen/_10sdp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center">
+
+
+
+                    <Button
+                        android:id="@+id/button1"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/play_video" />
+
+
+                    <Button
+                        android:id="@+id/button2"
+                        android:layout_width="@dimen/_40sdp"
+                        android:layout_height="@dimen/_40sdp"
+                        android:layout_below="@+id/button1"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginLeft="@dimen/_5sdp"
+                        android:background="@drawable/pause_button" />
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ln_answer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#424242">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:gravity="center"
+                    android:padding="@dimen/_10sdp"
+                    android:layout_margin="1px"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/tv_answer_by"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Answer By : 957628430"
+                        android:textSize="@dimen/_12sdp"
+                        android:textColor="@color/black"
+                        android:layout_gravity="center" />
+
+                    <TextView
+                        android:visibility="gone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_10sdp"
+                        android:text="Click here to View Answer"/>
+
+
+                    <com.uncopt.android.widget.text.justify.JustifiedTextView
+                        android:id="@+id/tv_answer"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/_12sdp"
+                        android:justificationMode="inter_word"
+                        android:text="This is demo answer: Whole answer define here. It will be displayed here. Please give more description about the question asked.This is demo answer: Whole answer define here. It will be displayed here. Please give more description about the question asked."/>
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/ln_like_starred"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#424242"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+
+                <LinearLayout
+                    android:id="@+id/ln_like"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+
+                    android:layout_marginRight="1px"
+                    android:layout_marginBottom="1px"
+                    android:background="@color/white"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:padding="@dimen/_10sdp">
+
+                    <TextView
+                        android:id="@+id/tv_add_remove_like"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Like"
+                        android:textSize="@dimen/_14sdp"
+                        android:textColor="@color/black"
+                        android:layout_gravity="center"/>
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/ln_starred"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:background="@color/white"
+                    android:layout_marginBottom="1px"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:padding="@dimen/_10sdp">
+
+
+                    <TextView
+                        android:id="@+id/tv_add_remove_starred"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Add to Starred"
+                        android:textSize="@dimen/_14sdp"
+                        android:textColor="@color/black"
+                        android:layout_gravity="center"/>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

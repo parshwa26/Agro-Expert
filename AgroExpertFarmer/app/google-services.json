@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1059371947920",
+    "firebase_url": "https://agro-expert-ef648.firebaseio.com",
+    "project_id": "agro-expert-ef648",
+    "storage_bucket": "agro-expert-ef648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059371947920:android:b3c9277687fe2eee",
+        "android_client_info": {
+          "package_name": "com.example.jaina.agroexpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059371947920-f0s9esip1lpqs1848n47kdug3okea50t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaina.agroexpert",
+            "certificate_hash": "074c27f90d757dab17dfba7721be2d8735bf1fa3"
+          }
+        },
+        {
+          "client_id": "1059371947920-sq8j54a00no3rvtn4atph6c6cumm0pre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrixjPcViWEmQIfU_jktzqHnRNtD3zT4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059371947920-sq8j54a00no3rvtn4atph6c6cumm0pre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

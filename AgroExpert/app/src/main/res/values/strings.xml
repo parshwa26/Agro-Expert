@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Agro Expert</string>
+
+    <string name="mobile_verification">Mobile Number Verification</string>
+    <string name="uname">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_verify">Verify OTP</string>
+    <string name="fg_pass">forget password?</string>
+    <string name="not_member_yet">not a member yet?</string>
+    <string name="btn_signup">Sign Up</string>
+
+    <string name="register">Register</string>
+    <string name="fname">First Name</string>
+    <string name="e_otp">Enter OTP</string>
+    <string name="lname">Last Name</string>
+    <string name="districtpphopho">District</string>
+    <string name="pincode">Pincode</string>
+    <string name="phone">Phone Number</string>
+    <string name="pass">Password</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="submit">Submit</string>
+
+
+    <string name="trending">Trending</string>
+    <string name="my_ques">My Questions</string>
+    <string name="save">Save</string>
+    <string name="ask_que">Ask Question</string>
+    <string name="ent_que">Enter Question</string>
+    <string name="categ">Category</string>
+    <string name="questions">Question</string>
+    <string name="answers">Answer</string>
+
+    <string name="select_lang">Select Language</string>
+    <string name="btn_login">Login</string>
+    <string name="login_to_your_account">Login to your Account</string>
+
+
+    <string name="login_to_agro_expert">Login to\n Agro Expert App</string>
+    <string name="sent_otp_via_sms">Send OTP via SMS</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_district">Enter District </string>
+    <string name="sent_otp_to">We have sent the OTP to</string>
+    <string name="resend_otp"><u>Resend OTP</u></string>
+    <string name="edt_mobile_no"><u>Edit mobile number</u></string>
+
+
+    <string name="agro_expert">Agro Expert</string>
+    <string name="ask_question">Ask Question</string>
+    <string name="answered_questions">Answered Questions</string>
+    <string name="pending_questions">Pending Questions</string>
+    <string name="search_question">Search Question</string>
+    <string name="starred_questions">Starred Questions</string>
+    <string name="FAQs">FAQs</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">Initiative By</string>
+    <string name="help">Help</string>
+
+    <string name="login">Login</string>
+
+    <string name="send">Send</string>
+    <string name="question_description">Question body goes here..</string>
+    <string name="add_audio">Add Audio to your question"</string>
+    <string name="add_image">Add Image to your question"</string>
+    <string name="add_video">Add Video to your question"</string>
+
+    <string name="asked_questions">Your Asked Questions</string>
+
+
+    <string name="goal_heading">Our Goals: </string>
+    <string name="goals">Our goal is to cultivate positive and productive agricultural practices using modern technology innovatively and build system and solution for the farmers.</string>
+    <string name="overview_heading">Overview</string>
+    <string name="overview">The need and desire for the farmers to be connected is increasing more and more. Thanks to the development of online initiatives like SMART GUJARAT HACKATHON, the ability to do so has become a reality for us</string>
+    <string name="team_heading">Our Team: </string>
+
+    <string name="jaina">Jaina Trivedi</string>
+    <string name="priyanshi">Priyanshi Shah</string>
+    <string name="parshwa">Parshwa Shah</string>
+    <string name="mohit">Mohit Vyas</string>
+    <string name="kaushal">Kaushal Vachhani</string>
+    <string name="sunny">Sunny Prajapati</string>
+    <string name="shubham">Shubham Kumar</string>
+    <string name="parth">Parth Sanghani</string>
+
+
+    <string name="write_answer">Write Answer</string>
+    <string name="question">Question</string>
+    <string name="give_your_answer">Give Your Answer here</string>
+
+
+    <string name="answer_goes_here">Answer goes here...</string>
+    <string name="factors">Extra Factors</string>
+    <string name="info">Information</string>
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="playerview_text">This is a YouTubePlayerView!</string>
+    <string name="wait_timer1">You can CHANGE MOBILE NUMBER or RESEND OTP after</string>
+    <string name="wait_timer2">seconds.</string>
+    <string name="other">other</string>
+    <string name="Suggestions">Suggestions</string>
+
+
+</resources>

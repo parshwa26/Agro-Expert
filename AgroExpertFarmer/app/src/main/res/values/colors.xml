@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1B5E20</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#1B5E20</color>
+
+
+    <color name="backlogin">#F5F5F5</color>
+    <color name="textcolor">#086F69</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#8bc348</color>
+
+
+
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+    <color name="gray">#F8F8F8</color>
+    <color name="gray1">#f3f5f5</color>
+
+    <color name="text">#616161</color>
+    <color name="text1">#424242</color>
+</resources>
